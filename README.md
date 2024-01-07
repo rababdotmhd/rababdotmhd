@@ -1,5 +1,5 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rababdotmhd&show_icons=true&theme=transparent&colour=red)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rababdotmhd&layout=compact&theme=transparent)  |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rababdotmhd&show_icons=true)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rababdotmhd&layout=compact&theme=transparent)  |
 | -------- | -------- | 
 
 
